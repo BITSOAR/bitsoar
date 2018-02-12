@@ -1,0 +1,9 @@
+Building BitSoar
+
+See doc/readme-qt.rst for instructions on building BitSoar QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitSoar.
+
+See doc/build-*.txt for instructions on building BitSoard,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitSoar.
